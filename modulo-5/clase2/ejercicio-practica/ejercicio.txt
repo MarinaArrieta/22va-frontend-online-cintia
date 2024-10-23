@@ -1,0 +1,22 @@
+EJERCITACIÓN
+PARTE 1
+
+1- Crear un proyecto con vite
+2- Limpiar lo que no voy a usar
+3- Crear un componente main que tenga:
+  - Un título 
+ - Una descripción 
+ - Que renderice variables numéricas y de strings
+PARTE 2
+1- Dar un background a APP con estilos en línea
+2- Dar estilos al título con un objeto
+PARTE 3 
+1- Crear un componente reutilizable button que reciba por props
+  - Color
+ - Texto
+ - Booleano
+PARTE 4 
+Usar el botón 3 veces en un menú  pasando diferentes props 
+hacer uso de console log para saber si llegan correctamente
+1.(props)
+2.{mis props}3.{props} destructuring
