@@ -20,3 +20,4 @@ Usar el botón 3 veces en un menú  pasando diferentes props
 hacer uso de console log para saber si llegan correctamente
 1.(props)
 2.{mis props}3.{props} destructuring
+
