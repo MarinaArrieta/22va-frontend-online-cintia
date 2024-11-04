@@ -40,13 +40,7 @@ function CountReact() {
         <button onClick={handleClick}>+</button>
         <h3>{count}</h3>
 
-        <button
-          onClick={() => {
-            setCount(count - 1);
-          }}
-        >
-          -
-        </button>
+        <button onClick={() => {setCount(count - 1)}}>-</button>
       </div>
     </div>
   );
