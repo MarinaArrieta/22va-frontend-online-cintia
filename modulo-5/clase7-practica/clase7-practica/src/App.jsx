@@ -4,6 +4,7 @@ import Buttons3EjAda from './components/Buttons3EjAda'
 import CountReact from './components/CountReact'
 import Title from './components/Title'
 import NinoOninaEjAda from './components/NinoOninaEjAda'
+import FormControlado from './components/FormControlado'
 
 function App() {
 
@@ -14,6 +15,7 @@ function App() {
       <Accordion/>
       <Buttons3EjAda/>
       <NinoOninaEjAda/>
+      <FormControlado/>
       </div>
      
   )
